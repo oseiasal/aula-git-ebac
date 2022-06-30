@@ -1,7 +1,7 @@
 Dados do aluno
 
 -Primeiro Nome: OSEIAS ALVES DO NASCIMENTO
--Profissão: DEV. FRONT END
+-Profissão: DEV. FRONT-END
 -Cidade: GUARULHOS
 -O que faz nas horas vaga: ACADEMIA, PIANO, IMPRESSÃO 3D
 -Feedback sobre o curso Qualidade de Software: OK
